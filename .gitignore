@@ -1,0 +1,8 @@
+appserver/node_modules
+appserver/package-lock.json
+
+
+webserver/node_modules
+webserver/package-lock.json
+webserver/angular.json
+.idea
